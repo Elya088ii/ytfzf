@@ -221,3 +221,5 @@ Feel free to contribute, and add your name to the credits, please use the develo
 Изменение 2 из branch1
 
 Изменение 3 из branch1
+
+Дополнение 4 после слияния
