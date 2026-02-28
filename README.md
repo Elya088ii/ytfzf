@@ -216,8 +216,11 @@ Feel free to contribute, and add your name to the credits, please use the develo
 | qoheniac      | [contributions](credits/qoheniac.md)      |        |
 | mathisto      | [contributions](credits/mathisto.md)      |        |
 
+
 Изменение 1 из branch2
-
 Изменение 2 из branch2
-
 Изменение 3 из branch2
+
+Изменение 1 из branch1
+Изменение 2 из branch1
+Изменение 3 из branch1
