@@ -225,3 +225,5 @@ Feel free to contribute, and add your name to the credits, please use the develo
 Дополнение 4 после слияния
 
 Дополнение 5 после слияния
+
+Дополнение 6 после слияния
